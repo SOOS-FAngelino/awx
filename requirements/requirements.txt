@@ -153,7 +153,7 @@ future==0.18.3
     # via django-radius
 gitdb==4.0.10
     # via gitpython
-gitpython==3.1.30
+gitpython==3.1.35
     # via -r /awx_devel/requirements/requirements.in
 google-auth==2.14.1
     # via kubernetes
